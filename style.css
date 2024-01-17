@@ -95,10 +95,13 @@ section {
 
 .link-msg {
    background-color: #FF1493;
-   padding: 20px 5px;
    margin-bottom: 50%;
+   padding: 20px;
    color: white;  
    border-radius: 10px;
+   height: 130px;
+   width: 500px;
+   margin-left: 690px;
 }
 
 footer {
